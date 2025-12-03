@@ -14,6 +14,3 @@ A simple and powerful **secure password generator** built using Python’s `secr
 
 ---
 
-## 📝 Usage
-
-### Run the program:
